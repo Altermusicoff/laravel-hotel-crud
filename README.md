@@ -1,1 +1,1 @@
-laravel-hotel-crud
+laravel-base-crud
